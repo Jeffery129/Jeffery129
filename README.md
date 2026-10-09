@@ -1,8 +1,13 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=WDXL+Lubrifont+JP+N&size=26&pause=3000&color=F7F7F7&center=true&vCenter=true&width=800&lines=%E4%BA%BA%E7%94%9F%E3%81%AF%E4%B8%80%E5%BA%A6%E3%81%8D%E3%82%8A%E3%80%81%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E3%82%84%E3%82%89%E3%81%9A%E3%81%AB%E5%BE%8C%E6%82%94%E3%81%99%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%E3%80%81%E3%82%84%E3%81%A3%E3%81%A6%E5%BE%8C%E6%82%94%E3%81%99%E3%82%8B%E6%96%B9%E3%81%8C%E3%83%9E%E3%82%B7%E3%81%A0" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=WDXL+Lubrifont+JP+N&size=26&pause=3000&color=F7F7F7&center=true&vCenter=true&width=800&lines=%E4%BA%BA%E7%94%9F%E3%81%AF%E4%B8%80%E5%BA%A6%E3%81%8D%E3%82%8A%E3%80%81%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E3%82%84%E3%82%89%E3%81%9A%E3%81%AB%E5%BE%8C%E6%82%94%E3%81%99%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%E3%80%81%E3%82%84%E3%81%A3%E3%81%A6%E5%BE%8C%E6%82%94%E3%81%99%E3%82%8B%E6%96%B9%E3%81%8C%E3%83%9E%E3%82%B7%E3%81%A0" 
+      alt="Typing SVG"
+      width="1000"
+      height="80"
+    >
+  </a>
 </div>
-
----
 
 ## 🐯 About Me
 
@@ -51,7 +56,7 @@
       <td>
         一人・リズム・文字認識<br>
         🏆 <strong>HAL EVENT WEEK・銀賞🥈</strong><br>
-        <a href="https://github.com/Satake0609/MagnetFriends/releases/latest">
+        <a href="https://github.com/Jeffery129/AT_Year1_HEW_Console_LightBeater/releases/tag/Build">
           <strong>▶ Release版をダウンロード</strong>
         </a>
       </td>
