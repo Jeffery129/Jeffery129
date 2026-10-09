@@ -42,7 +42,7 @@
           <img
             src="https://github-stats-extended.vercel.app/api/pin?username=Jeffery129&amp;repo=AT_Year2_Unity_MagnetFriends&amp;description_lines_count=1&amp;theme=catppuccin_mocha"
             alt="Magnet Friends! GitHub Repository Card"
-            width="300"
+            width="350"
           >
         </a>
       </td>
