@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" width="180" height="95" alt="giphy" src="https://github.com/user-attachments/assets/a9a4be14-7eeb-45c7-90f6-318aa81cc42f" />
+<img align="right" width="" height="9" alt="giphy" src="https://github.com/user-attachments/assets/a9a4be14-7eeb-45c7-90f6-318aa81cc42f" />
 
 📍 **日本・東京** ｜ **HAL東京** ゲーム学科 <br>
 🗣️ 中国語・日本語・英語 <br>
