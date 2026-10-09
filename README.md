@@ -14,9 +14,9 @@
 
 ## 🎮️ Works
 
-| 作品名 | 情報 | 担当 | エンジン・言語 |
+| 作品名 | 情報 | 担当 | リポジトリ |
 |---|---|---|---|
-| [**Magnet Friends!**](https://github.com/Jeffery129/AT_Year2_Unity_MagnetFriends) | 2人協力パズルアクション<br>🏆 **TGS2026 出展**（神ゲー創造主エボリューション）<br> <a href="https://github.com/Satake0609/MagnetFriends/releases/latest"><b>▶ α版をダウンロード</b></a> | ギミック・全体統括 | Unity・C# |
+| [**Magnet Friends!**](https://github.com/Jeffery129/AT_Year2_Unity_MagnetFriends) | 2人協力パズルアクション<br>🏆 **TGS2026 出展**（神エボ）<br> <a href="https://github.com/Satake0609/MagnetFriends/releases/latest"><b>▶ α版をダウンロード</b></a> | ・ギミック制作<br>・全体統括 | [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Jeffery129&repo=AT_Year2_Unity_MagnetFriends&description_lines_count=1&theme=catppuccin_mocha)](https://github.com/Jeffery129/AT_Year2_Unity_MagnetFriends) |
 | [**Light Beater**](https://github.com/Jeffery129/AT_Year2_Unity_MagnetFriends) |  |  |  |
 
 ---
