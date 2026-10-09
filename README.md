@@ -17,10 +17,10 @@
 <table>
   <thead>
     <tr>
-      <th><big><strong>作品名</strong></big></th>
-      <th><big><strong>情報</strong></big></th>
-      <th><big><strong>担当</strong></big></th>
-      <th><big><strong>リポジトリ</strong></big></th>
+      <th><h3>作品名</h3></th>
+      <th><h3>情報</h3></th>
+      <th><h3>担当</h3></th>
+      <th><h3>リポジトリ</h3></th>
     </tr>
   </thead>
   <tbody>
