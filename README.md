@@ -14,10 +14,51 @@
 
 ## 🎮️ Works
 
-| 作品名 | 情報 | 担当 | リポジトリ |
-|---|---|---|---|
-| **Magnet Friends!** | CO-OP・二人協力<br>パズル・アクション<br>🏆 **TGS2026 出展** <br> <a href="https://github.com/Satake0609/MagnetFriends/releases/latest"><b>▶ α版をダウンロード</b></a> | ギミック制作<br>全体統括 | [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Jeffery129&repo=AT_Year2_Unity_MagnetFriends&description_lines_count=1&theme=catppuccin_mocha)](https://github.com/Jeffery129/AT_Year2_Unity_MagnetFriends) |
-| [**Light Beater**](https://github.com/Jeffery129/AT_Year2_Unity_MagnetFriends) |  |  |  |
+<table>
+  <thead>
+    <tr>
+      <th>作品名</th>
+      <th>情報</th>
+      <th>担当</th>
+      <th>リポジトリ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Magnet Friends!</strong></td>
+      <td>
+        二人協力・パズル・アクション<br>
+        🏆 <strong>TGS2026 出展</strong>（神エボ）<br>
+        <a href="https://github.com/Satake0609/MagnetFriends/releases/latest">
+          <strong>▶ α版をダウンロード</strong>
+        </a>
+      </td>
+      <td>
+        ギミック制作<br>
+        全体統括
+      </td>
+      <td>
+        <a href="https://github.com/Jeffery129/AT_Year2_Unity_MagnetFriends">
+          <img
+            src="https://github-stats-extended.vercel.app/api/pin?username=Jeffery129&amp;repo=AT_Year2_Unity_MagnetFriends&amp;description_lines_count=1&amp;theme=catppuccin_mocha"
+            alt="Magnet Friends! GitHub Repository Card"
+            width="300"
+          >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Jeffery129/AT_Year2_Unity_MagnetFriends">
+          <strong>Light Beater</strong>
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
