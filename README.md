@@ -25,7 +25,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>Magnet Friends!</strong></td>
+      <td align="center"><strong>Magnet Friends!</strong></td>
       <td>
         二人協力・パズル・アクション<br>
         🏆 <strong>TGS2026 出展</strong>（神エボ）<br>
@@ -41,21 +41,33 @@
         <a href="https://github.com/Jeffery129/AT_Year2_Unity_MagnetFriends">
           <img
             src="https://github-stats-extended.vercel.app/api/pin?username=Jeffery129&amp;repo=AT_Year2_Unity_MagnetFriends&amp;description_lines_count=1&amp;theme=catppuccin_mocha"
-            alt="Magnet Friends! GitHub Repository Card"
             width="350"
           >
         </a>
       </td>
     </tr>
     <tr>
+      <td align="center"><strong>Light Beater</strong></td>
       <td>
-        <a href="https://github.com/Jeffery129/AT_Year2_Unity_MagnetFriends">
-          <strong>Light Beater</strong>
+        一人・リズム・文字認識<br>
+        🏆 <strong>HAL EVENT WEEK・銀賞🥈</strong><br>
+        <a href="https://github.com/Satake0609/MagnetFriends/releases/latest">
+          <strong>▶ Release版をダウンロード</strong>
         </a>
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        企画・宣伝<br>
+        プログラム<br>
+        デザイン<br>
+      </td>
+      <td>
+        <a href="https://github.com/Jeffery129/AT_Year1_HEW_Console_LightBeater">
+          <img
+            src="https://github-stats-extended.vercel.app/api/pin?username=Jeffery129&amp;repo=AT_Year1_HEW_Console_LightBeater&amp;description_lines_count=1&amp;theme=catppuccin_mocha"
+            width="350"
+          >
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
