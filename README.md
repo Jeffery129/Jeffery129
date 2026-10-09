@@ -3,7 +3,7 @@
     <img 
       src="https://readme-typing-svg.demolab.com?font=WDXL+Lubrifont+JP+N&size=26&pause=3000&color=F7F7F7&center=true&vCenter=true&width=800&lines=%E4%BA%BA%E7%94%9F%E3%81%AF%E4%B8%80%E5%BA%A6%E3%81%8D%E3%82%8A%E3%80%81%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E3%82%84%E3%82%89%E3%81%9A%E3%81%AB%E5%BE%8C%E6%82%94%E3%81%99%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%E3%80%81%E3%82%84%E3%81%A3%E3%81%A6%E5%BE%8C%E6%82%94%E3%81%99%E3%82%8B%E6%96%B9%E3%81%8C%E3%83%9E%E3%82%B7%E3%81%A0" 
       alt="Typing SVG"
-      width="1000"
+      width="970"
       height="80"
     >
   </a>
@@ -11,12 +11,24 @@
 
 ## 🐯 About Me
 
+<img align="right" width="70" src="https://media.giphy.com/media/3ohhwhPuChkQMDzwK4/giphy.gif" alt="" />
+
 - 🏆 TGS2026 出展（神ゲー創造主エボリューション／旧日本ゲーム大賞アマチュア・U18部門）
 - 🏆 HAL EVENT WEEK 銀賞🥈（一年・後期）
-- 🏆 HAL 三校合同コンテスト 技術力賞・構成力賞
-- ⌨️ 企画を考えつつ、「面白さ」や「手触り」をプログラムで詰めていくのが好きです
-- 💁‍♂️ 体を動かすのが好きで、昔は⚽️キーパー、今は🏐バレーボールやってます<br>
+- 🏆 HAL三校合同コンテスト　技術力賞・構成力賞
 
+---
+
+<img align="right" height="100" alt="giphy" src="https://github.com/user-attachments/assets/a9a4be14-7eeb-45c7-90f6-318aa81cc42f" />
+
+📍 **日本・東京** ｜ **HAL東京** ゲーム学科 <br>
+🗣️ 中国語・日本語・英語 <br>
+⌨️ 企画を考えつつ、「面白さ」や「手触り」をプログラムで詰めていくのが好きです<br>
+💁‍♂️ 体を動かすのが好きで、昔は⚽️キーパー、今は🏐バレーボールやってます
+
+
+
+---
 ## 🎮️ Works
 
 <table>
