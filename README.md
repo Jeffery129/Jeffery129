@@ -87,10 +87,12 @@
 ![Static Badge](https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=%23512BD4&color=%237B5CD6)
 ![Static Badge](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift&logoColor=white&labelColor=%23F05138&color=%23FA7343)<br><br>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Jeffery129&layout=compact&langs_count=4&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=Jeffery129&layout=compact&langs_count=4&theme=catppuccin_mocha)
+
 ### - Engines & Frameworks:  
 ![Static Badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto&labelColor=%23222C37&color=%2356616B&link=https%3A%2F%2Funity.com%2Fja)
 ![Static Badge](https://img.shields.io/badge/unreal%20engine-black?style=for-the-badge&logo=unrealengine&logoColor=white&logoSize=auto&labelColor=%230E1128&color=%23252A44&link=https%3A%2F%2Fwww.unrealengine.com%2F%3Flang%3Dja)
 ![Static Badge](https://img.shields.io/badge/DirectX11-white?style=for-the-badge&logoColor=white&logoSize=auto&label=%F0%9D%90%97&labelColor=%231B4332&color=%232D6A4F)
+
 ### - Tools & DevOps: 
 ![Static Badge](https://img.shields.io/badge/Aseprite-white?style=for-the-badge&logo=aseprite&logoColor=white&labelColor=%237D929E&color=%23EEEEEE)
 ![Static Badge](https://img.shields.io/badge/CapCut-white?style=for-the-badge&logoColor=white&color=%2300CAE0)
@@ -98,12 +100,17 @@
 ![Static Badge](https://img.shields.io/badge/Blender-white?style=for-the-badge&logo=Blender&logoColor=white&logoSize=auto&labelColor=%23E87D0D&color=%23F28A1C)
 ![Static Badge](https://img.shields.io/badge/Maya-white?style=for-the-badge&logo=Maya&logoColor=white&logoSize=auto&labelColor=%23007D8C&color=%2337A5CC)
 ![Static Badge](https://img.shields.io/badge/GIMP-white?style=for-the-badge&logo=GIMP&logoColor=white&logoSize=auto&labelColor=%238C8073&color=%23B8ADA2)
-### - TeamWorks:
+
+### - Teamwork:
 ![Static Badge](https://img.shields.io/badge/google%20sheets-white?style=for-the-badge&logo=googlesheets&logoColor=white&logoSize=auto&labelColor=%2334A853&color=%235FBD76)
 ![Static Badge](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=white&logoSize=auto&labelColor=%23F03C2E&color=%23F46A60)
 ![Static Badge](https://img.shields.io/badge/trello-white?style=for-the-badge&logo=trello&logoColor=white&logoSize=auto&labelColor=%230052CC&color=%232684FF)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+
+### - Other Skills:
+![Static Badge](https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23B71C1C&color=%23D32F2F)
+![Static Badge](https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=white&labelColor=%23292929&color=%235A5A5A)
 
 ---
 
