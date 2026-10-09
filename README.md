@@ -56,6 +56,6 @@
 <div align="left">
   
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jeffery129&rank_icon=github&custom_title=%E2%9C%A8%EF%B8%8F%20My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=Jeffery129&rank_icon=github&custom_title=%E2%9C%A8%EF%B8%8F%20My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=calm)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jeffery129&theme=calm&date_format=M%20j%5B%2C%20Y%5D&card_width=365&card_height=194)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jeffery129&theme=calm&date_format=M%20j%5B%2C%20Y%5D&card_width=375&card_height=194)](https://git.io/streak-stats)
 
 </div>
