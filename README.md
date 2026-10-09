@@ -11,15 +11,13 @@
 
 ## 🐯 About Me
 
-<img align="right" width="70" src="https://media.giphy.com/media/3ohhwhPuChkQMDzwK4/giphy.gif" alt="" />
-
-- 🏆 TGS2026 出展（神ゲー創造主エボリューション／旧日本ゲーム大賞アマチュア・U18部門）
-- 🏆 HAL EVENT WEEK 銀賞🥈（一年・後期）
-- 🏆 HAL三校合同コンテスト　技術力賞・構成力賞
+- 🏆 **TGS2026 出展（神ゲー創造主エボリューション／旧日本ゲーム大賞アマチュア・U18部門）**
+- 🏆 **HAL EVENT WEEK 銀賞🥈（一年・後期）**
+- 🏆 **HAL三校合同コンテスト　技術力賞・構成力賞**
 
 ---
 
-<img align="right" height="100" alt="giphy" src="https://github.com/user-attachments/assets/a9a4be14-7eeb-45c7-90f6-318aa81cc42f" />
+<img align="right" height="80" alt="giphy" src="https://github.com/user-attachments/assets/a9a4be14-7eeb-45c7-90f6-318aa81cc42f" />
 
 📍 **日本・東京** ｜ **HAL東京** ゲーム学科 <br>
 🗣️ 中国語・日本語・英語 <br>
