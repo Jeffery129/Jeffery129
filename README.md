@@ -87,12 +87,12 @@
     <tr>
       <td align="center"><strong>Twin Shade</strong></td>
       <td>
-        一人・シューティング<br>
+        一人・2Dシューティング・Switch<br>
         スクロールアクション<br>
         🏆 <strong>三校合同・技術力賞</strong><br>
       </td>
       <td>
-        企画・宣伝<br>
+        企画・制作<br>
         プログラム<br>
         デザイン<br>
       </td>
@@ -100,6 +100,29 @@
         <a href="https://github.com/Jeffery129/AT_Year2_Switch_TwinShade">
           <img
             src="https://github-stats-extended.vercel.app/api/pin?username=Jeffery129&amp;repo=AT_Year2_Switch_TwinShade&amp;description_lines_count=1&amp;theme=catppuccin_mocha"
+            width="350"
+          >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Twin Shade</strong></td>
+      <td>
+        一人・FPS・Unity<br>
+        🏆 <strong>三校合同・技術力賞</strong><br>
+        <a href="https://github.com/Jeffery129/AT_Year1_Winter_Call-Of-Death/releases/tag/Build">
+          <strong>▶ Release版をダウンロード</strong>
+        </a>
+      </td>
+      <td>
+        企画・制作<br>
+        プログラム<br>
+        デザイン<br>
+      </td>
+      <td>
+        <a href="https://github.com/Jeffery129/AT_Year1_Winter_Call-Of-Death">
+          <img
+            src="https://github-stats-extended.vercel.app/api/pin?username=Jeffery129&amp;repo=AT_Year1_Winter_Call-Of-Death&amp;description_lines_count=1&amp;theme=catppuccin_mocha"
             width="350"
           >
         </a>
