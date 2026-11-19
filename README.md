@@ -87,7 +87,7 @@
     <tr>
       <td align="center"><strong>Twin Shade</strong></td>
       <td>
-        一人・2Dシューティング・Switch<br>
+        Switch・2Dシューティング<br>
         スクロールアクション<br>
         🏆 <strong>三校合同・技術力賞</strong><br>
       </td>
@@ -108,7 +108,7 @@
     <tr>
       <td align="center"><strong>Twin Shade</strong></td>
       <td>
-        一人・FPS・Unity<br>
+        一人・FPS・Unity3D<br>
         🏆 <strong>三校合同・技術力賞</strong><br>
         <a href="https://github.com/Jeffery129/AT_Year1_Winter_Call-Of-Death/releases/tag/Build">
           <strong>▶ Release版をダウンロード</strong>
