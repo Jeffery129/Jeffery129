@@ -84,6 +84,27 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center"><strong>Twin Shade</strong></td>
+      <td>
+        一人・シューティング<br>
+        スクロールアクション<br>
+        🏆 <strong>三校合同・技術力賞</strong><br>
+      </td>
+      <td>
+        企画・宣伝<br>
+        プログラム<br>
+        デザイン<br>
+      </td>
+      <td>
+        <a href="https://github.com/Jeffery129/AT_Year2_Switch_TwinShade">
+          <img
+            src="https://github-stats-extended.vercel.app/api/pin?username=Jeffery129&amp;repo=AT_Year2_Switch_TwinShade&amp;description_lines_count=1&amp;theme=catppuccin_mocha"
+            width="350"
+          >
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
